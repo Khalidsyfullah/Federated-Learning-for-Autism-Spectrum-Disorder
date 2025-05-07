@@ -18,4 +18,4 @@ The proposed approach integrates three deep learning models—Feed Forward Neura
 ### **Citation**
 
 Syfullah, M. K., Ali, M. S., & Hossain, M. M. (2024). *Federated learning for autism spectrum disorder detection*. Paper accepted for presentation at the **International Conference on Machine Intelligence and Emerging Technologies (MIET 2024)**, November 8–9, 2024.
-**\[To be published in Springer]** | **\[Preprint available](https://www.researchgate.net/publication/387429289_Federated_Learning_for_Autism_Spectrum_Disorder_Detection)**
+**\[To be published in Springer]** | [Preprint available](https://www.researchgate.net/publication/387429289_Federated_Learning_for_Autism_Spectrum_Disorder_Detection)
